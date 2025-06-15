@@ -20,7 +20,7 @@ A **full-stack web application** for note-taking, allowing users to **create, ed
 - **Spring Boot**
 - **Spring Security** (with JWT-based authentication)
 - **Spring Data JPA**
-- **H2 / MySQL / PostgreSQL** (configurable)
+- **MySQL** (configurable)
 - **Maven**
 
 ### Frontend
